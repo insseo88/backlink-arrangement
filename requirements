@@ -1,0 +1,11 @@
+streamlit
+pandas
+supabase>=2.0.0
+requests
+beautifulsoup4
+lxml
+numpy
+cloudscraper
+playwright
+matplotlib
+plotly
