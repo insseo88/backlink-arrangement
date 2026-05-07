@@ -8,5 +8,4 @@ numpy
 cloudscraper
 playwright
 matplotlib
-plotly.express as px
-from supabase import create_client
+plotly
